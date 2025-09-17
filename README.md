@@ -20,7 +20,7 @@ I’m passionate about the **algorithmic side of computing** and diving deep int
 
 ---
 
-### 📈 Stats
-![Ciem's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianpm-gh&show_icons=true&theme=tokyonight)
+### 📊 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianpm-gh&layout=compact&theme=tokyonight)
 
 ---
