@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm **Ciem**, a final-year **Computer Engineering** student from Mexico.  
 I’m passionate about the **algorithmic side of computing** and diving deep into **computer science concepts**.  
