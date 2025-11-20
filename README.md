@@ -21,6 +21,6 @@ I’m passionate about the **algorithmic side of computing** and diving deep int
 ---
 
 ### 📊 Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christianpm-gh&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianpm-gh&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 ---
